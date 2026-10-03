@@ -1,0 +1,9 @@
+Oi
+Chatbot: Olá! Tudo bem?
+Qual é o seu nome?
+Chatbot: Meu nome é Dona Maria!
+Você gosta de música?
+Chatbot: Adoro! Principalmente MPB.
+Chatbot: Legal
+Chatbot: Legal
+Chatbot: 
